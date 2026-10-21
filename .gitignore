@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
+desktop_pick_place/results/
+logs/
+*.log
+MUJOCO_LOG.TXT
+.env
+.env.*
+Thumbs.db
+.DS_Store

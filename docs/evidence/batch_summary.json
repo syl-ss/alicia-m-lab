@@ -1,0 +1,31 @@
+{
+  "passed": 3,
+  "total": 3,
+  "cases": [
+    {
+      "name": "original",
+      "success": true,
+      "duration_s": 16.150000000001928,
+      "final_xy_error_mm": 0.03833761204829958,
+      "error": null,
+      "result_dir": "desktop_pick_place\\results\\release_validation_20261021\\original"
+    },
+    {
+      "name": "shifted",
+      "success": true,
+      "duration_s": 16.150000000001928,
+      "final_xy_error_mm": 0.04062012739851398,
+      "error": null,
+      "result_dir": "desktop_pick_place\\results\\release_validation_20261021\\shifted"
+    },
+    {
+      "name": "diagonal",
+      "success": true,
+      "duration_s": 16.150000000001928,
+      "final_xy_error_mm": 0.04282995822167722,
+      "error": null,
+      "result_dir": "desktop_pick_place\\results\\release_validation_20261021\\diagonal"
+    }
+  ],
+  "scope": "Three selected positions in deterministic MuJoCo simulation; not general reliability or hardware validation"
+}
